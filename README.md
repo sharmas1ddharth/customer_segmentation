@@ -16,6 +16,6 @@ This repo describe several techniques for clustering, visualizing and interpreti
 
 ### That is all, I hope you enjoy
 
-My other projects can be found at my [GitHub](https://github.com/rileypredum)
+My other projects can be found at my [GitHub](https://github.com/sharmas1ddharth)
 
-I also write about them on [Medium](https://medium.com/@rileypredum).
+I also write about them on [Medium](https://medium.com/@ssiddharth408).
